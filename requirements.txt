@@ -1,0 +1,8 @@
+numpy
+tensorflow
+tifffile
+matplotlib
+rasterio
+geopandas
+opencv-python
+GDAL
